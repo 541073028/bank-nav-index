@@ -106,7 +106,7 @@
                         egTitle: 'ALL BUSINESS',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: ''
+                        link: 'http://m.ccb.com/cn/home/indexv3m.html'
                     },
                     {
                         icon: require('../assets/img/menuPage/wangdianchaxun@2x.png'),
@@ -114,7 +114,7 @@
                         egTitle: 'BRANCHES QUERY',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: ''
+                        link: 'pages/index/index'
                     },
                     {
                         icon: require('../assets/img/menuPage/yueshenghuo@2x.png'),
@@ -122,7 +122,7 @@
                         egTitle: 'YUE LIFE PAY COST',
                         bg: require('../assets/img/menuPage/redbg.png'),
                         sign: require('../assets/img/menuPage/redSign@2x.png'),
-                        link: ''
+                        link: 'http://life.ccb.com/cn/paymentv3/mobilev3/indexv3.html'
                     },
                     {
                         icon: require('../assets/img/menuPage/yukaihu@2x.png'),
@@ -130,7 +130,7 @@
                         egTitle: 'ENTERPRISE OPEN AN ACCOUNT',
                         bg: require('../assets/img/menuPage/greenbg.png'),
                         sign: require('../assets/img/menuPage/greenSign@2x.png'),
-                        link: ''
+                        link: 'http://umq.cn/AocC'
                     }
                 ],
                 menuList2: [
@@ -140,7 +140,7 @@
                         egTitle: 'CREDIT CARD APPLY FOR',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: ''
+                        link: 'http://m.ccb.com/cn/creditcard/mobilev3/cards/product_list.html'
                     },
                     {
                         icon: require('../assets/img/menuPage/cardFen@2x.png'),
@@ -148,7 +148,7 @@
                         egTitle: 'CREDIT CARD INSTALLMENT',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: ''
+                        link: 'http://ccbh5.uncle-ad.com/jhfqf/index.html'
                     },
                     {
                         icon: require('../assets/img/menuPage/cardQuan@2x.png'),
@@ -156,7 +156,7 @@
                         egTitle: 'CREDIT CARD RIGHTS',
                         bg: require('../assets/img/menuPage/redbg.png'),
                         sign: require('../assets/img/menuPage/redSign@2x.png'),
-                        link: ''
+                        link: 'http://m.ccb.com/cn/mobilev3/nonfinance_mobilev3/index.html'
                     }
                 ],
                 menuList3: [
@@ -166,7 +166,7 @@
                         egTitle: 'RENTAL HOUSING',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/WxlY--CuhMQIPNv3_g0YOg'
                     },
                     {
                         icon: require('../assets/img/menuPage/huipujinrong@2x.png'),
@@ -174,7 +174,7 @@
                         egTitle: 'INCLUSIVE FINANCE',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/4Rf3xuP6mKhcdXFMnnLm5Q'
                     },
                     {
                         icon: require('../assets/img/menuPage/laodongzhe@2x.png'),
@@ -182,7 +182,7 @@
                         egTitle: 'LABORER HOME',
                         bg: require('../assets/img/menuPage/redbg.png'),
                         sign: require('../assets/img/menuPage/redSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/80HOMiL0PA3RJOOI9yIBGA'
                     }
                 ],
                 menuList4: [
@@ -192,7 +192,7 @@
                         egTitle: 'CONSTRUCTION ETC',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: ''
+                        link: 'pages/index/index'
                     },
                     {
                         icon: require('../assets/img/menuPage/bankBanKe@2x.png'),
@@ -200,7 +200,7 @@
                         egTitle: 'CONSTRUCTION BANK BANKE',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: ''
+                        link: 'https://sinfo.ccb.com/3dbank/banke/dist/index.html?source=101id=welcomeMessage'
                     },
                     {
                         icon: require('../assets/img/menuPage/wuganpay@2x.png'),
@@ -208,7 +208,7 @@
                         egTitle: 'NON-INDUCTIVE PAY',
                         bg: require('../assets/img/menuPage/redbg.png'),
                         sign: require('../assets/img/menuPage/redSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/OXJ7JxFiZYjDh12gLRIhrQ'
                     }
                 ],
                 menuList5: [
@@ -218,7 +218,7 @@
                         egTitle: 'MOBILE BANKING',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/uSe6x-GWTnjFpw6o0PbcKg'
                     },
                     {
                         icon: require('../assets/img/menuPage/shanrongshangwu@2x.png'),
@@ -226,7 +226,7 @@
                         egTitle: 'SHANRONG BUSINESS',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/Evky_XOXxx3V8DXICy5cLg'
                     },
                     {
                         icon: require('../assets/img/menuPage/longzhifu@2x.png'),
@@ -234,7 +234,7 @@
                         egTitle: 'DRAGON PAY',
                         bg: require('../assets/img/menuPage/redbg.png'),
                         sign: require('../assets/img/menuPage/redSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/lJvQhNkHcy3Sq9TPpTCi5g'
                     },
                     {
                         icon: require('../assets/img/menuPage/guandou@2x.png'),
@@ -242,7 +242,7 @@
                         egTitle: 'OFFICIAL VIDEO',
                         bg: require('../assets/img/menuPage/greenbg.png'),
                         sign: require('../assets/img/menuPage/greenSign@2x.png'),
-                        link: ''
+                        link: 'https://mp.weixin.qq.com/s/sq29MLsz2xgN2JCUUNvCqg'
                     }
                 ],
             }
@@ -251,6 +251,12 @@
             jumpPage(data) {
                 console.log(data);
                 window.location.href = data.link
+            }
+        },
+        mounted(){
+            if(this.$route.query) {
+                this.pageIndex = this.$route.query.pageIndex;
+                console.log(this.pageIndex)
             }
         }
     }

@@ -114,7 +114,7 @@
                         egTitle: 'BRANCHES QUERY',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: 'pages/index/index'
+                        link: 'https://mp.weixin.qq.com/s/30Lop0fhqx5x3nFvm_xccw'
                     },
                     {
                         icon: require('../assets/img/menuPage/yueshenghuo@2x.png'),
@@ -192,7 +192,7 @@
                         egTitle: 'CONSTRUCTION ETC',
                         bg: require('../assets/img/menuPage/bluebg.png'),
                         sign: require('../assets/img/menuPage/blueSign@2x.png'),
-                        link: 'pages/index/index'
+                        link: 'https://mp.weixin.qq.com/s/vzP1WkIEUs8hTiMpNsnE6A'
                     },
                     {
                         icon: require('../assets/img/menuPage/bankBanKe@2x.png'),

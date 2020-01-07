@@ -148,7 +148,7 @@
                         egTitle: 'CREDIT CARD INSTALLMENT',
                         bg: require('../assets/img/menuPage/zibg.png'),
                         sign: require('../assets/img/menuPage/zijiantou@2x.png'),
-                        link: 'http://ccbh5.uncle-ad.com/jhfqf/index.html'
+                        link: 'http://m.ccb.com/cn/mobile/weixin/include/201309101378782722.html?'
                     },
                     {
                         icon: require('../assets/img/menuPage/cardQuan@2x.png'),
@@ -245,6 +245,7 @@
                         link: 'https://mp.weixin.qq.com/s/sq29MLsz2xgN2JCUUNvCqg'
                     }
                 ],
+                map: {1:'业务为办理厅',2:'龙卡信用卡',3:'便民服务点',4:'建行黑科技',5:'实用小工具'}
             }
         },
         methods: {
@@ -253,10 +254,12 @@
                 window.location.href = data.link
             }
         },
-        mounted(){
+        created(){
             if(this.$route.query) {
                 this.pageIndex = this.$route.query.pageIndex;
-                console.log(this.pageIndex)
+                document.title = this.map[this.pageIndex];
+                localStorage.pageIndex = this.$route.query.pageIndex;
+                console.log(this.pageIndex,localStorage.pageIndex)
             }
         }
     }

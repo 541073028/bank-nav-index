@@ -98,7 +98,7 @@
         name: "MenuPage",
         data() {
             return {
-                pageIndex: '5',
+                pageIndex: '1',
                 menuList1: [
                     {
                         icon: require('../assets/img/menuPage/yewudaquan@2x.png'),
